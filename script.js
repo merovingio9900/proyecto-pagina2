@@ -1,3 +1,3 @@
 function saludar() {
-  alert("¡Chau desde JavaScript!");
+  alert("¡Chau2 desde JavaScript!");
 }
